@@ -1,0 +1,2 @@
+Install github.com/go-redis/redis 
+Add Docker to the PC
