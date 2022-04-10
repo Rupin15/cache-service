@@ -20,7 +20,7 @@
 
 **Testing:**
 
-- Go to localhost:8080/user/<name>
+- Go to localhost:8080/user/< name >
 - We will receive desired output
 
 **Part3**
@@ -38,8 +38,8 @@
 
 **Testing the Part:**
 
-- To set the value of Key-pair and use it such as Rupin:Key, Run the following, localhost:8080/Setuser/<key>/<value>
-- To get the value from the Key-Value pair, Run the following, localhost:8080/Getuser/<some_name>
+- To set the value of Key-pair and use it such as Rupin:Key, Run the following, localhost:8080/Setuser/< key >/< value >
+- To get the value from the Key-Value pair, Run the following, localhost:8080/Getuser/< some_name >
 
 **Part4**
 
@@ -56,5 +56,5 @@
 
 **Testing the Part**
 
-- To Set the value, Use the following command in local host localhost:8080/Setuser/<name>/<class>/<roll>
-- To Get the Value, Use localhost:8080/Getuser/<name>
+- To Set the value, Use the following command in local host localhost:8080/Setuser/ < name > / < class > / < roll >
+- To Get the Value, Use localhost:8080/Getuser/ < name > 
